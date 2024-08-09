@@ -1,5 +1,6 @@
-Olá, meu nome é Gisele de Oliveira Souza. Moro em Rosário do Ivaí.
-
+Olá, meu nome é Gisele de Oliveira Souza.
+Moro em Rosário do Ivaí.
+E estudo integral no Colégio Estadual José siqueira rosas.
 #  **Agrinho: do campo à cidade, colhendo oportunidades**.
 # Formação Matematica II, NRE Ivaiporã, NRE Ivaiporã, Guarapuava e Pato Branco.
 ## [Clique aqui para ver o site de exemplo](https://professorrichardson.github.io/Agrinho-2024-formacao/)
